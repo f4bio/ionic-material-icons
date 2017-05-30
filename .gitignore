@@ -1,4 +1,4 @@
-dist
-aot
-.idea
-node_modules
+#dist/
+aot/
+.idea/
+node_modules/
